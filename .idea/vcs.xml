@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CLIP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ViTPose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hicodet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hicodet/detections/d_detr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hicodet/detections/detr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hicodet/detections/h_detr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/upt" vcs="Git" />
+  </component>
+</project>
